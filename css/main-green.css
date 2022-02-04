@@ -61,7 +61,7 @@ body {
   width: 100%;
   font-size: 15px;
   line-height: 1.6em;
-  background-color: #f5f5f5;
+  background-color: #121212;
   overflow-x: hidden;
   overflow-y: auto;
   background-image: url(../images/main_bg.png);
@@ -343,7 +343,7 @@ button:hover, input[type="button"]:hover, input[type="submit"]:hover {
 .btn-secondary,
 .btn-secondary:hover,
 .btn-secondary:focus {
-  background-color: #fff;
+  background-color: #2eca7f;
   color: #212121;
   box-shadow: 0 1px 1px rgba(0,0,0,0.1), 0 2px 4px rgba(0,0,0,0.3);
 }
@@ -503,7 +503,7 @@ body > footer .copyrights {
 
 .pt-page .section-inner {
   position: relative;
-  background-color: #fff;
+  background-color: #000;
   overflow: hidden;
   border-radius: 15px;
   -webkit-box-shadow: 0px 15px 25px 0px rgba(0,0,0,0.1);
@@ -694,7 +694,7 @@ body > footer .copyrights {
   padding: 8px 0;
   margin: 0 20px;
   text-align: center;
-  color: #49515d;
+  color: #87898d;
   font-size: 15px;
   line-height: 1;
   font-weight: 400;
@@ -839,7 +839,7 @@ body > footer .copyrights {
 ======================================= */
 .start-page-content .page-header {
   position: relative;
-  background-color: #2eca7f;
+  background-color: #000;
   padding: 50px;
   margin-bottom: 25px;
   background-image: url(../images/sp_main_bg.png);
